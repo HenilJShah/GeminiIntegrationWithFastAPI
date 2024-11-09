@@ -210,7 +210,8 @@ Your FastAPI application will be accessible at `http://localhost:8000`.
 
 
 
-https://github.com/user-attachments/assets/29ce036b-adac-4dd1-8b32-4ff5e2fe9a7f
+
+https://github.com/user-attachments/assets/c7b56215-0f80-4a13-8ce4-99aa405f1178
 
 
 
