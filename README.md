@@ -208,6 +208,12 @@ uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 
 Your FastAPI application will be accessible at `http://localhost:8000`.
 
+
+
+https://github.com/user-attachments/assets/29ce036b-adac-4dd1-8b32-4ff5e2fe9a7f
+
+
+
 ## License
 
 This project is licensed under the MIT License.
